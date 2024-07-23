@@ -1,31 +1,31 @@
 ,,"Iteration v5: Pain points collected from iterations v1, v2, v3 and v4 with the priotization system implemented.",,,,,,,
 #,Step,Section,Type,Pain Point,Affected User,Recurrence,Time,NPS (Impact),Priority
-1,Communication Channels,-,Support,Customers receive a lot of emails from different domains.,Customer,2,2,2,6
-2,Communication Channels,-,Process,"Customers are disorganized with their emails, links, etc.",Consultant,3,2,1,6
-3,Communication Channels,-,Support,Customers get lost with the emails in English.,Customer,1,1,1,3
-4,Communication Channels,-,Financial,Consultants lack strategies to effectively handle ghost customers.,Consultant,3,3,3,9
-5,Communication Channels,-,Financial,Consultants spend significant time sending reminders to customers.,Consultant,3,3,3,9
-6,Communication Channels,-,Support,Customers receive some emails in their spam folder.,Customer,1,1,1,3
-7,Communication Channels,-,Process,Customers don’t show up to the meetings.,Consultant,3,3,3,9
-8,Communication Channels,-,Process,Customers struggle using basic IT tools.,Customer,3,2,1,6
-9,Communication Channels,-,Support,Customers experience misunderstandings with onboarding consultants regarding product features or Virtuagym processes that were previously mentioned by the sales team.,Customer,3,3,3,9
-10,Communication Channels,-,Financial,Customers stop answering the calls and emails.,Consultant,3,3,3,9
-11,VG Academy,-,Support,Customers overload from the amount of information they review.,Customer,3,3,3,9
-12,VG Academy,-,Support,Customers get introduced to Schedule before credits explanation.,Customer,1,1,3,5
-13,VG Academy,-,Support,Customers don't know how long it will take them to watch all the videos.,Customer,3,3,3,9
-14,VG Academy,-,Support,Customers aren’t motivated enough to apply what they've learned on the videos.,Customer,3,3,3,9
-15,Portal,-,Support,Consultants struggle tracking the customer's progress and synchronizing it with Salesforce.,Consultant,2,2,2,6
-16,Portal,-,Process,Consultants spend a lot of time explaining things from zero due to the customer's failure to complete tasks.,Consultant,3,3,3,9
-17,Portal,-,Support,Customers get lost in their first encounter with the portal. ,Customer,3,3,3,9
-18,Portal,-,Process,Customers don't complete the tasks assigned by the consultant.,Consultant,3,3,3,9
-19,Portal,-,Financial,Customers who are used to the features of other software get resistant to see value in the product.,Customer,1,2,3,6
-20,Portal,-,Financial,Consultants struggle to defend Virtuagym value against other fitness software.,Consultant,1,1,3,5
-21,Portal,-,Financial,Customers get upset and demotivated due to bugs in the platform.,Customer,2,3,3,8
-22,Portal,-,Process,Customers are often unaware of their remaining onboarding time.,Customer,2,3,3,8
-23,Portal,-,Financial,Spanish customers don't care enough about the contract signed with Virtuagym and stop paying their license.,Consultant,3,3,3,9
-24,Portal,-,Financial,Customers do not take the onboarding time limit seriously.,Consultant,3,3,3,9
-25,Portal,-,Process,Consultants frequently struggle to complete an onboarding within the initial month.,Consultant,3,3,3,9
-26,Portal,-,Process,Customers spend a lot of time fixing configurations.,Customer,2,3,3,8
+1,Communication Channels,N/A,Support,Customers receive a lot of emails from different domains.,Customer,2,2,2,6
+2,Communication Channels,N/A,Process,"Customers are disorganized with their emails, links, etc.",Consultant,3,2,1,6
+3,Communication Channels,N/A,Support,Customers get lost with the emails in English.,Customer,1,1,1,3
+4,Communication Channels,N/A,Financial,Consultants lack strategies to effectively handle ghost customers.,Consultant,3,3,3,9
+5,Communication Channels,N/A,Financial,Consultants spend significant time sending reminders to customers.,Consultant,3,3,3,9
+6,Communication Channels,N/A,Support,Customers receive some emails in their spam folder.,Customer,1,1,1,3
+7,Communication Channels,N/A,Process,Customers don’t show up to the meetings.,Consultant,3,3,3,9
+8,Communication Channels,N/A,Process,Customers struggle using basic IT tools.,Customer,3,2,1,6
+9,Communication Channels,N/A,Support,Customers experience misunderstandings with onboarding consultants regarding product features or Virtuagym processes that were previously mentioned by the sales team.,Customer,3,3,3,9
+10,Communication Channels,N/A,Financial,Customers stop answering the calls and emails.,Consultant,3,3,3,9
+11,VG Academy,N/A,Support,Customers overload from the amount of information they review.,Customer,3,3,3,9
+12,VG Academy,N/A,Support,Customers get introduced to Schedule before credits explanation.,Customer,1,1,3,5
+13,VG Academy,N/A,Support,Customers don't know how long it will take them to watch all the videos.,Customer,3,3,3,9
+14,VG Academy,N/A,Support,Customers aren’t motivated enough to apply what they've learned on the videos.,Customer,3,3,3,9
+15,Portal,Overall,Support,Consultants struggle tracking the customer's progress and synchronizing it with Salesforce.,Consultant,2,2,2,6
+16,Portal,Overall,Process,Consultants spend a lot of time explaining things from zero due to the customer's failure to complete tasks.,Consultant,3,3,3,9
+17,Portal,Overall,Support,Customers get lost in their first encounter with the portal. ,Customer,3,3,3,9
+18,Portal,Overall,Process,Customers don't complete the tasks assigned by the consultant.,Consultant,3,3,3,9
+19,Portal,Overall,Financial,Customers who are used to the features of other software get resistant to see value in the product.,Customer,1,2,3,6
+20,Portal,Overall,Financial,Consultants struggle to defend Virtuagym value against other fitness software.,Consultant,1,1,3,5
+21,Portal,Overall,Financial,Customers get upset and demotivated due to bugs in the platform.,Customer,2,3,3,8
+22,Portal,Overall,Process,Customers are often unaware of their remaining onboarding time.,Customer,2,3,3,8
+23,Portal,Overall,Financial,Spanish customers don't care enough about the contract signed with Virtuagym and stop paying their license.,Consultant,3,3,3,9
+24,Portal,Overall,Financial,Customers do not take the onboarding time limit seriously.,Consultant,3,3,3,9
+25,Portal,Overall,Process,Consultants frequently struggle to complete an onboarding within the initial month.,Consultant,3,3,3,9
+26,Portal,Overall,Process,Customers spend a lot of time fixing configurations.,Customer,2,3,3,8
 27,Portal,Memberships,Process,"Customers can't delete memberships, they can only be set to inactive.",Customer,1,1,1,3
 28,Portal,Memberships,Product,"The Sales Tax for the Regular Price reverts to ""No tax"" after adding an Income Category.",Customer,1,1,1,3
 29,Portal,Memberships,Process,Customers can't duplicate add-ons.,Customer,1,1,2,4
@@ -93,15 +93,15 @@
 91,Portal,Mobile App,Process,Customers can’t delete unused titles in bulk.,Customer,1,2,3,6
 92,Fitness App,Log In,Process,"Customers have to re-enter personal information like weight, height, age and gender each time they log in.",Customer,1,3,2,6
 93,Fitness App,Workouts,Product,"Customers don't know how to pause a workout in the app, as the pause icon is not visible.",Customer,1,1,2,4
-94,Nutrition App,-,Financial,"The ""Food App"" does not appear among the top search results.",Customer,1,2,3,6
-95,Nutrition App,-,Product,"The ""Food App"" name does not follow the same naming convention as other Virtuagym apps.",Customer,1,1,1,3
-96,VG Pay,-,Support,Customers get lost with the VG Pay application steps and Ayden documentation.,Customer,3,3,3,9
-97,VG Pay,-,Process,Customers face delays in the internal approval process for VG Pay.,Customer,3,3,3,9
-98,VG Pay,-,Process,Consultants often adopt an intermediary role between VG Pay experts and customers.,Consultant,3,3,3,9
-99,Other,-,Process,Customers experience challenges when dealing with third-party services.,Customer,3,3,3,9
-100,Other,-,Support,Customers feel lost about the setps and requirements to configure their custom mobile app on Apple devices.,Customer,2,3,3,8
-101,Other,-,Process,Customers make mistakes when completing the document to import contracts.,Customer,2,3,3,8
-102,Other,-,Process,Consultants struggle looking for information across CS support platforms.,Consultant,1,2,3,6
-103,Other,-,Support,Consultants frequently encounter outdated information in the CS support platforms.,Consultant,1,2,3,6
-104,Other,-,Financial,Smaller and independent customers often struggle to understand financial processes.,Customer,2,3,3,8
-105,Other,-,Support,Consultants lack sufficient training about business models.,Consultant,1,3,3,7
+94,Nutrition App,N/A,Financial,"The ""Food App"" does not appear among the top search results.",Customer,1,2,3,6
+95,Nutrition App,N/A,Product,"The ""Food App"" name does not follow the same naming convention as other Virtuagym apps.",Customer,1,1,1,3
+96,VG Pay,N/A,Support,Customers get lost with the VG Pay application steps and Ayden documentation.,Customer,3,3,3,9
+97,VG Pay,N/A,Process,Customers face delays in the internal approval process for VG Pay.,Customer,3,3,3,9
+98,VG Pay,N/A,Process,Consultants often adopt an intermediary role between VG Pay experts and customers.,Consultant,3,3,3,9
+99,Other,N/A,Process,Customers experience challenges when dealing with third-party services.,Customer,3,3,3,9
+100,Other,N/A,Support,Customers feel lost about the setps and requirements to configure their custom mobile app on Apple devices.,Customer,2,3,3,8
+101,Other,N/A,Process,Customers make mistakes when completing the document to import contracts.,Customer,2,3,3,8
+102,Other,N/A,Process,Consultants struggle looking for information across CS support platforms.,Consultant,1,2,3,6
+103,Other,N/A,Support,Consultants frequently encounter outdated information in the CS support platforms.,Consultant,1,2,3,6
+104,Other,N/A,Financial,Smaller and independent customers often struggle to understand financial processes.,Customer,2,3,3,8
+105,Other,N/A,Support,Consultants lack sufficient training about business models.,Consultant,1,3,3,7
