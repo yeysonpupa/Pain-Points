@@ -1,0 +1,194 @@
+,,"Iteration v5: Pain points collected from iterations v1, v2, v3 and v4 with the priotization system implemented.",,,,,,,,,,,,,,,,
+#,Step,Section,Type,Pain Point,Affected User,Recurrence,Time,NPS (Impact),Priority,,,,,,,,,
+1,Communication Channels,-,Support,Customers receive a lot of emails from different domains.,Customer,2,2,2,6,,,,,,,,,
+2,Communication Channels,-,Process,"Customers are disorganized with their emails, links, etc.",Consultant,3,2,1,6,,,,,,,,,
+3,Communication Channels,-,Support,Customers get lost with the emails in English.,Customer,1,1,1,3,,,,,,,,,
+4,Communication Channels,-,Financial,Consultants lack strategies to effectively handle ghost customers.,Consultant,3,3,3,9,,,,,,,,,
+5,Communication Channels,-,Financial,Consultants spend significant time sending reminders to customers.,Consultant,3,3,3,9,,,,,,,,,
+6,Communication Channels,-,Support,Customers receive some emails in their spam folder.,Customer,1,1,1,3,,,,,,,,,
+7,Communication Channels,-,Process,Customers don’t show up to the meetings.,Consultant,3,3,3,9,,,,,,,,,
+8,Communication Channels,-,Process,Customers struggle using basic IT tools.,Customer,3,2,1,6,,,,,,,,,
+9,Communication Channels,-,Support,Customers experience misunderstandings with onboarding consultants regarding product features or Virtuagym processes that were previously mentioned by the sales team.,Customer,3,3,3,9,,,,,,,,,
+10,Communication Channels,-,Financial,Customers stop answering the calls and emails.,Consultant,3,3,3,9,,,,,,,,,
+11,VG Academy,-,Support,Customers overload from the amount of information they review.,Customer,3,3,3,9,,,,,,,,,
+12,VG Academy,-,Support,Customers get introduced to Schedule before credits explanation.,Customer,1,1,3,5,,,,,,,,,
+13,VG Academy,-,Support,Customers don't know how long it will take them to watch all the videos.,Customer,3,3,3,9,,,,,,,,,
+14,VG Academy,-,Support,Customers aren’t motivated enough to apply what they've learned on the videos.,Customer,3,3,3,9,,,,,,,,,
+15,Portal,-,Support,Consultants struggle tracking the customer's progress and synchronizing it with Salesforce.,Consultant,2,2,2,6,,,,,,,,,
+16,Portal,-,Process,Consultants spend a lot of time explaining things from zero due to the customer's failure to complete tasks.,Consultant,3,3,3,9,,,,,,,,,
+17,Portal,-,Support,Customers get lost in their first encounter with the portal. ,Customer,3,3,3,9,,,,,,,,,
+18,Portal,-,Process,Customers don't complete the tasks assigned by the consultant.,Consultant,3,3,3,9,,,,,,,,,
+19,Portal,-,Financial,Customers who are used to the features of other software get resistant to see value in the product.,Customer,1,2,3,6,,,,,,,,,
+20,Portal,-,Financial,Consultants struggle to defend Virtuagym value against other fitness software.,Consultant,1,1,3,5,,,,,,,,,
+21,Portal,-,Financial,Customers get upset and demotivated due to bugs in the platform.,Customer,2,3,3,8,,,,,,,,,
+22,Portal,-,Process,Customers are often unaware of their remaining onboarding time.,Customer,2,3,3,8,,,,,,,,,
+23,Portal,-,Financial,Spanish customers don't care enough about the contract signed with Virtuagym and stop paying their license.,Consultant,3,3,3,9,,,,,,,,,
+24,Portal,-,Financial,Customers do not take the onboarding time limit seriously.,Consultant,3,3,3,9,,,,,,,,,
+25,Portal,-,Process,Consultants frequently struggle to complete an onboarding within the initial month.,Consultant,3,3,3,9,,,,,,,,,
+26,Portal,-,Process,Customers spend a lot of time fixing configurations.,Customer,2,3,3,8,,,,,,,,,
+27,Portal,Memberships,Process,"Customers can't delete memberships, they can only be set to inactive.",Customer,1,1,1,3,,,,,,,,,
+28,Portal,Memberships,Product,"The Sales Tax for the Regular Price reverts to ""No tax"" after adding an Income Category.",Customer,1,1,1,3,,,,,,,,,
+29,Portal,Memberships,Process,Customers can't duplicate add-ons.,Customer,1,1,2,4,,,,,,,,,
+30,Portal,Memberships,Support,Customers don’t understand how memberships work.,Customer,3,3,3,9,,,,,,,,,
+31,Portal,Memberships,Product,Customers can't link and trigger automatic discounts for users with a certain combination of memberships.,Customer,1,1,2,4,,,,,,,,,
+32,Portal,Memberships,Product,Customers can’t configure special memberships that can be purchased only once in a lifetime by a client.,Customer,1,1,2,4,,,,,,,,,
+33,Portal,Memberships,Support,Customers don't understand that the automatic renewal value cannot be less than the value of the next created invoice.,Customer,2,2,2,6,,,,,,,,,
+34,Portal,Memberships,Product,Customers can't create memberships for specific time periods because the system doesn't have an automatic truncate feature.,Customer,1,1,2,4,,,,,,,,,
+35,Portal,Credits,Product,"Customers don’t understand the ""Disabled"" default option used for the deduct period.",Customer,1,2,2,5,,,,,,,,,
+36,Portal,Credits,Support,Customers don’t understand how credits work.,Customer,3,3,3,9,,,,,,,,,
+37,Portal,Credits,Process,Customers usually forget to add credits when configuring memberships.,Customer,2,3,3,8,,,,,,,,,
+38,Portal,Credits,Process,Customers usually forget to add credits when configuring events.,Customer,2,3,3,8,,,,,,,,,
+39,Portal,Credits,Process,Customers usually forget to add credits when configuring products.,Customer,2,3,3,8,,,,,,,,,
+40,Portal,Financial,Support,Customers don't understand the differences between the types of invoices.,Customer,3,3,3,9,,,,,,,,,
+41,Portal,Financial,Support,Customers don't know how to process invoices.,Customer,3,3,2,8,,,,,,,,,
+42,Portal,Appointment Schedule & Schedule,Product,Customers can't synchronize the Schedule with the Appointment Schedule.,Customer,2,3,3,8,,,,,,,,,
+43,Portal,Appointment Schedule & Schedule,Support,Customers don't understand the difference between Schedule and Appointment Schedule.,Customer,3,3,3,9,,,,,,,,,
+44,Portal,Appointment Schedule & Schedule,Process,Customers add fixed Schedules incorrectly to the Appointment Schedule and vice versa.,Customer,3,3,3,9,,,,,,,,,
+45,Portal,Appointment Schedule,Product,Customers can't create widgets for the fixed Schedule as this option is only available in the Appointment Schedule.,Customer,1,1,2,4,,,,,,,,,
+46,Portal,Appointment Schedule,Support,"Customers don't understand the difference between ""category"" and ""activity"".",Customer,1,1,2,4,,,,,,,,,
+47,Portal,Appointment Schedule,Product,Customers can’t choose the location in the Appointment Schedule.,Customer,2,3,3,8,,,,,,,,,
+48,Portal,Appointment Schedule,Product,Customers can't set up daily recurrence when establishing a staff availability.,Customer,1,2,3,6,,,,,,,,,
+49,Portal,Schedule  ,Process,Customers must dismiss the same alert twice to edit the Credit Type value when scheduling a new event.,Customer,1,1,1,3,,,,,,,,,
+50,Portal,Schedule,Product,Customers can't limit the number of reschedules a client can make.,Customer,1,3,3,7,,,,,,,,,
+51,Portal,Schedule,Support,"Customers don't understand what ""Add guest""’ means.",Customer,1,1,1,3,,,,,,,,,
+52,Portal,Schedule,Process,Customers are not aware of the difference between the staff view and client view.,Customer,2,1,1,4,,,,,,,,,
+53,Portal,Schedule,Support,"Customers don't understand what ""recurrence"" means when creating a class.",Customer,2,1,2,5,,,,,,,,,
+54,Portal,Schedule,Support,"Customers get confused about the ""Bookable in Advance"" option.",Customer,1,1,1,3,,,,,,,,,
+55,Portal,Schedule,Product,Customers can't edit the recurrence of an event in the schedule after it has been created.,Customer,1,2,3,6,,,,,,,,,
+56,Portal,Schedule,Process,Customers need to leave empty some information in order to set a new activity up properly but they don't know what specifically.,Customer,1,2,3,6,,,,,,,,,
+57,Portal,Schedule,Product,Customers use the same interface to create a new activity from the schedule and to create a new activity from Workout Plans.,Customer,1,2,3,6,,,,,,,,,
+58,Portal,Schedule Settings,Support,"Customers don't understand the ""Compact View"" feature.",Customer,1,1,1,3,,,,,,,,,
+59,Portal,Schedule Settings,Process,Customers can't duplicate Custom Events.,Customer,1,2,3,6,,,,,,,,,
+60,Portal,Webshop,Support,Customers don’t know what the toggle button for each category does.,Customer,1,1,1,3,,,,,,,,,
+61,Portal,Webshop,Process,Customers can't duplicate categories.,Customer,1,2,3,6,,,,,,,,,
+62,Portal,Webshop,Process,Customers can't add in bulk several products to their categories.,Customer,1,2,3,6,,,,,,,,,
+63,Portal,Webshop,Product,Customer's clients can’t enter discount codes in the webshop.,Customer,1,1,2,4,,,,,,,,,
+64,Portal,Webshop,Support,Customers get confused because the Shop-In-House link is not explained.,Customer,1,1,1,3,,,,,,,,,
+65,Portal,Webshop,Product,Deactivated memberships by the customer still appear.,Customer,1,1,3,5,,,,,,,,,
+66,Portal,Webshop,Product,Deactivated memberships by the customer can still be purchased.,Customer,1,1,3,5,,,,,,,,,
+67,Portal,Point of Sale,Process,Customers can’t duplicate products.,Customer,1,2,3,6,,,,,,,,,
+68,Portal,Community,Product,Customers don't notice the “Add Challenge” button because it doesn’t follow design standard.,Customer,1,1,1,3,,,,,,,,,
+69,Portal,Community,Process,Customers can't duplicate challenges.,Customer,1,2,3,6,,,,,,,,,
+70,Portal,Community,Process,Customers can't duplicate groups.,Customer,1,2,3,6,,,,,,,,,
+71,Portal,My Profile,Process,Customers have to click three times to upload a progress picture.,Customer,1,1,2,4,,,,,,,,,
+72,Portal,My Profile,Process,Customers have to click three times to upload a picture in a blog.,Customer,1,1,2,4,,,,,,,,,
+73,Portal,My Profile,Process,Customers have to click three times to upload or change a profile picture.,Customer,1,1,2,4,,,,,,,,,
+74,Portal,My Profile,Process,Customers have to click three times to upload or change a cover photo.,Customer,1,1,2,4,,,,,,,,,
+75,Portal,My Sports,Product,Customers see a very small and plain list for selecting sports.,Customer,1,1,1,3,,,,,,,,,
+76,Portal,My Sports,Product,Customers are unable to search for specific sports.,Customer,1,2,1,4,,,,,,,,,
+77,Portal,Progress Tracker,Product,Customers can’t search for specific values.,Customer,1,2,1,4,,,,,,,,,
+78,Portal,Progress Tracker,Product,The list lack visible organization or categorization.,Customer,1,1,1,3,,,,,,,,,
+79,Portal,Meal Plans,Process,Customers can't duplicate meal plans.,Customer,1,2,3,6,,,,,,,,,
+80,Portal,Meal Plans,Process,Customers can't add a product to several meal times during the day at once.,Customer,1,3,3,7,,,,,,,,,
+81,Portal,Meal Plans,Product,Customers can't define multiple food options within the same mealtime without the system aggregating total calories.,Customer,1,3,3,7,,,,,,,,,
+82,Portal,Leads,Product,"Customers see the same ""Add"" button in two different places of the interface that lead to the same page.",Customer,1,1,1,3,,,,,,,,,
+83,Portal,Clients,Process,Customers can’t assign a coach to multiple clients in bulk.,Customer,2,3,3,8,,,,,,,,,
+84,Portal,My Business,Product,"Customers feel unsure about adding a different link that is not Facebook due to the title ""Facebook page"".",Customer,1,1,1,3,,,,,,,,,
+85,Portal,My Business,Product,Customers can't add more than one social media link.,Customer,1,1,2,4,,,,,,,,,
+86,Portal,My Business,Support,Customers don’t understand what variables are.,Customer,1,2,1,4,,,,,,,,,
+87,Portal,My Business,Process,Customers can't set the same time range for multiple days at once.,Customer,1,2,2,5,,,,,,,,Level,
+88,Portal,Mobile App Design & Portal Design,Process,Customers get confused by the inconsistency between color selection methods.,Customer,1,1,2,4,,,,,,,,Customers receive a lot of emails from different domains.,Interaction-Level
+89,Portal,Mobile App Design & Portal Design,Process,Customers must configure colors individually in multiple sections.,Customer,1,3,2,6,,,,,,,,"Customers are disorganized with their emails, links, etc.",Interaction-Level
+90,Portal,Mobile App,Product,Deleted titles continue to show up as unused options each time customers click the Add New Title button.,Customer,1,2,2,5,,,,,,,,Customers get lost with the emails in English.,Interaction-Level
+91,Portal,Mobile App,Process,Customers can’t delete unused titles in bulk.,Customer,1,2,3,6,,,,,,,,Consultants lack strategies to effectively handle ghost customers.,Interaction-Level
+92,Fitness App,Log In,Process,"Customers have to re-enter personal information like weight, height, age and gender each time they log in.",Customer,1,3,2,6,,,,,,,,Consultants spend significant time sending reminders to customers.,Interaction-Level
+93,Fitness App,Workouts,Product,"Customers don't know how to pause a workout in the app, as the pause icon is not visible.",Customer,1,1,2,4,,,,,,,,Customers receive some emails in their spam folder.,Interaction-Level
+94,Nutrition App,-,Financial,"The ""Food App"" does not appear among the top search results.",Customer,1,2,3,6,,,,,,,,Customers don’t show up to the meetings.,Interaction-Level
+95,Nutrition App,-,Product,"The ""Food App"" name does not follow the same naming convention as other Virtuagym apps.",Customer,1,1,1,3,,,,,,,,Customers struggle using basic IT tools.,Interaction-Level
+96,VG Pay,-,Support,Customers get lost with the VG Pay application steps and Ayden documentation.,Customer,3,3,3,9,,,,,,,,Customers experience misunderstandings with onboarding consultants regarding product features or Virtuagym processes that were previously mentioned by the sales team.,Journey-Level
+97,VG Pay,-,Process,Customers face delays in the internal approval process for VG Pay.,Customer,3,3,3,9,,,,,,,,Customers stop answering the calls and emails.,Interaction-Level
+98,VG Pay,-,Process,Consultants often adopt an intermediary role between VG Pay experts and customers.,Consultant,3,3,3,9,,,,,,,,Customers overload from the amount of information they review.,Journey-Level
+99,Other,-,Process,Customers experience challenges when dealing with third-party services.,Customer,3,3,3,9,,,,,,,,Customers get introduced to Schedule before credits explanation.,Journey-Level
+100,Other,-,Support,Customers feel lost about the setps and requirements to configure their custom mobile app on Apple devices.,Customer,2,3,3,8,,,,,,,,Customers fail to pay enough attention or take the videos seriously.,Journey-Level
+101,Other,-,Process,Customers make mistakes when completing the document to import contracts.,Customer,2,3,3,8,,,,,,,,Customers don't know how long it will take them to watch all the videos.,Journey-Level
+102,Other,-,Process,Consultants struggle looking for information across CS support platforms.,Consultant,1,2,3,6,,,,,,,,Customers aren’t motivated enough to apply what they've learned on the videos.,Journey-Level
+103,Other,-,Support,Consultants frequently encounter outdated information in the CS support platforms.,Consultant,1,2,3,6,,,,,,,,Consultants struggle tracking the customer's progress and synchronizing it with Salesforce.,Journey-Level
+104,Other,-,Financial,Smaller and independent customers often struggle to understand financial processes.,Customer,2,3,3,8,,,,,,,,Consultants spend a lot of time explaining things from zero due to the customer's failure to complete tasks.,Journey-Level
+105,Other,-,Support,Consultants lack sufficient training about business models.,Consultant,1,3,3,7,,,,,,,,Customers get lost in their first encounter with the portal.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers who are used to the features of other software get resistant to see value in the product.,Relationship-Level
+,,,,,,,,,,,,,,,,,Consultants struggle to defend Virtuagym value against other fitness software.,Relationship-Level
+,,,,,,,,,,,,,,,,,Customers get upset and demotivated due to bugs in the platform.,Relationship-Level
+,,,,,,,,,,,,,,,,,Customers are often unaware of their remaining onboarding time.,Journey-Level
+,,,,,,,,,,,,,,,,,Spanish customers don't care enough about the contract signed with Virtuagym and stop paying their license.,Relationship-Level
+,,,,,,,,,,,,,,,,,Customers do not take the onboarding time limit seriously.,Journey-Level
+,,,,,,,,,,,,,,,,,Consultants frequently struggle to complete an onboarding within the initial month.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers spend a lot of time fixing configurations.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers can't delete memberships, they can only be set to inactive.",Journey-Level
+,,,,,,,,,,,,,,,,,"The Sales Tax for the Regular Price reverts to ""No tax"" after adding an Income Category.",Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't duplicate add-ons.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers don’t understand how memberships work.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't link and trigger automatic discounts for users with a certain combination of memberships.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can’t configure special memberships that can be purchased only once in a lifetime by a client.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers don't understand that the automatic renewal value cannot be less than the value of the next created invoice.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't create memberships for specific time periods because the system doesn't have an automatic truncate feature.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers don’t understand the ""Disabled"" default option used for the deduct period.",Journey-Level
+,,,,,,,,,,,,,,,,,Customers don’t understand how credits work.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers usually forget to add credits when configuring memberships.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers usually forget to add credits when configuring events.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers usually forget to add credits when configuring products.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers don't understand the differences between the types of invoices.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers don't know how to process invoices.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't synchronize the Schedule with the Appointment Schedule.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers don't understand the difference between Schedule and Appointment Schedule.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers add fixed schedules incorrectly to the appointment schedule and vice versa.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't create widgets for the fixed Schedule as this option is only available in the Appointment Schedule.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers don't understand the difference between ""category"" and ""activity"".",Journey-Level
+,,,,,,,,,,,,,,,,,Customers can’t choose the location in the Appointment Schedule.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't set up daily recurrence when establishing a staff availability.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers must dismiss the same alert twice to edit the Credit Type value when scheduling a new event.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't limit the number of reschedules a client can make.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers don't understand what ""Add guest""’ means.",Journey-Level
+,,,,,,,,,,,,,,,,,Customers are not aware of the difference between the staff view and client view.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers don't understand what ""recurrence"" means when creating a class.",Journey-Level
+,,,,,,,,,,,,,,,,,"Customers get confused about the ""Bookable in Advance"" option.",Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't edit the recurrence of an event in the schedule after it has been created.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers need to leave empty some information in order to set a new activity up properly but they don't know what specifically.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers use the same interface to create a new activity from the schedule and to create a new activity from Workout Plans.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers don't understand the ""Compact View"" feature.",Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't duplicate Custom Events.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers don’t know what the toggle button for each category does.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't duplicate categories.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't add in bulk several products to their categories.,Journey-Level
+,,,,,,,,,,,,,,,,,Customer's clients can’t enter discount codes in the webshop.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers get confused because the Shop-In-House link is not explained.,Journey-Level
+,,,,,,,,,,,,,,,,,Deactivated memberships by the customer still appear.,Journey-Level
+,,,,,,,,,,,,,,,,,Deactivated memberships by the customer can still be purchased.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can’t duplicate products.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers don't notice the “Add Challenge” button because it doesn’t follow design standard.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't duplicate challenges.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't duplicate groups.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers have to click three times to upload a progress picture.,Interaction-Level
+,,,,,,,,,,,,,,,,,Customers have to click three times to upload a picture in a blog.,Interaction-Level
+,,,,,,,,,,,,,,,,,Customers have to click three times to upload or change a profile picture.,Interaction-Level
+,,,,,,,,,,,,,,,,,Customers have to click three times to upload or change a cover photo.,Interaction-Level
+,,,,,,,,,,,,,,,,,Customers see a very small and plain list for selecting sports.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers are unable to search for specific sports.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can’t search for specific values.,Journey-Level
+,,,,,,,,,,,,,,,,,The list lacks visible organization or categorization.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't duplicate meal plans.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't add a product to several meal times during the day at once.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't define multiple food options within the same mealtime without the system aggregating total calories.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers see the same ""Add"" button in two different places of the interface that lead to the same page.",Journey-Level
+,,,,,,,,,,,,,,,,,Customers can’t assign a coach to multiple clients in bulk.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers feel unsure about adding a different link that is not Facebook due to the title ""Facebook page"".",Interaction-Level
+,,,,,,,,,,,,,,,,,Customers can't add more than one social media link.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers don’t understand what variables are.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can't set the same time range for multiple days at once.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers get confused by the inconsistency between color selection methods.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers must configure colors individually in multiple sections.,Journey-Level
+,,,,,,,,,,,,,,,,,Deleted titles continue to show up as unused options each time customers click the Add New Title button.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers can’t delete unused titles in bulk.,Journey-Level
+,,,,,,,,,,,,,,,,,"Customers have to re-enter personal information like weight, height, age, and gender each time they log in.",Interaction-Level
+,,,,,,,,,,,,,,,,,"Customers don't know how to pause a workout in the app, as the pause icon is not visible.",Interaction-Level
+,,,,,,,,,,,,,,,,,"The ""Food App"" does not appear among the top search results.",Journey-Level
+,,,,,,,,,,,,,,,,,"The ""Food App"" name does not follow the same naming convention as other Virtuagym apps.",Journey-Level
+,,,,,,,,,,,,,,,,,Customers get lost with the VG Pay application steps and Ayden documentation.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers face delays in the internal approval process for VG Pay.,Journey-Level
+,,,,,,,,,,,,,,,,,Consultants often adopt an intermediary role between VG Pay experts and customers.,Interaction-Level
+,,,,,,,,,,,,,,,,,Customers experience challenges when dealing with third-party services.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers feel lost about the steps and requirements to configure their custom mobile app on Apple devices.,Journey-Level
+,,,,,,,,,,,,,,,,,Customers make mistakes when completing the document to import contracts.,Journey-Level
+,,,,,,,,,,,,,,,,,Consultants struggle looking for information across CS support platforms.,Interaction-Level
+,,,,,,,,,,,,,,,,,Consultants frequently encounter outdated information in the CS support platforms.,Interaction-Level
+,,,,,,,,,,,,,,,,,Smaller and independent customers often struggle to understand financial processes.,Journey-Level
+,,,,,,,,,,,,,,,,,Consultants lack sufficient training about business models.,Interaction-Level
